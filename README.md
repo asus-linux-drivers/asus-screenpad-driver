@@ -2,4 +2,4 @@
 
 ## Credits
 
-Thank you very much all the contributors of [screenpad-tools](https://github.com/Plippo/screenpad-tools) for your work.
+Thank you very much all the contributors of [Plippo/screenpad-tools](https://github.com/Plippo/screenpad-tools) for your work.
